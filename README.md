@@ -7,7 +7,8 @@ This repository serves as a central hub for all my machine learning projects. Ea
 Below is a list of the projects available in this repository:
 
 1. [Heart Attack Analysis and Prediction](https://github.com/Stef0916/Machine-Learning-projects/tree/main/heart_attack_analysis_prediction/): This project is dedicated to the comprehensive analysis and prediction of heart attack diseases. Through methodical processes and detailed exploratory data analysis, I aim to derive insights and create robust classification predictive models.
-2. [House Price Prediction with Tensorflow and sklearn](https://github.com/Stef0916/Machine-Learning-projects/tree/main/house_price_prediction_Tensorflow_sklearn): This project is dedicated to the comprehensive analysis and prediction of house price . Through methodical processes and detailed exploratory data analysis, I aim to derive insights and create robust predictive model by comparing different algorithms.
+2. [House Price Prediction with Tensorflow and Sklearn](https://github.com/Stef0916/Machine-Learning-projects/tree/main/house_price_prediction_Tensorflow_sklearn): This project is dedicated to the comprehensive analysis and prediction of house price . Through methodical processes and detailed exploratory data analysis, I aim to derive insights and create robust predictive model by comparing different algorithms.
+3. [# Diabetes Detection using Different Classifaction Methods and Artificial Neural Network](https://github.com/Stef0916/Machine-Learning-projects/tree/main/diabetes-prediction): The objective of the project is to build a reliable and robust ML classification algorithm in order to predict whether or not a patient has diabetes, based in given features/diagnostic measurements. It includes data preprocessing, feature selection, and model building and evaluation.
 
 ## Getting Started
 

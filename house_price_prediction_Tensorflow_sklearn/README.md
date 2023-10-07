@@ -7,7 +7,14 @@ This project is dedicated to the comprehensive analysis and prediction of house 
 3. Random Forest
 4. Neural Network
 
-## Overview
+## Project Structure
+
+```plaintext
+house_price_prediction_Tensorflow_sklearn/
+|-- data.csv  # Dataset used for the prediction
+|-- house_price_prediction_Tensorflow_sklearn.ipynb  # Main notebook for house price prediction using TensorFlow and scikit-learn
+|-- README.md  # This file, detailing the project structure and overview
+```
 
 **Introduction**: 
 Initiating the study by examining the significance of the topic, and understanding the dataset variables.
